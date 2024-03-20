@@ -1,10 +1,3 @@
-.containerFriends {
-  width: 100px;
-  height: 100%;
-  border: 3px solid black;
-  border-radius: 5px;
-}
-
 .friendsList {
   display: flex;
   gap: 5px 10px;
